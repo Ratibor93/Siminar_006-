@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\bin\Debug\net8.0\Siminar_006(КР).exe
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\bin\Debug\net8.0\Siminar_006(КР).deps.json
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\bin\Debug\net8.0\Siminar_006(КР).runtimeconfig.json
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\bin\Debug\net8.0\Siminar_006(КР).dll
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\bin\Debug\net8.0\Siminar_006(КР).pdb
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).AssemblyInfo.cs
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).dll
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\refint\Siminar_006(КР).dll
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).pdb
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\Siminar_006(КР).genruntimeconfig.cache
+C:\Users\Я\Desktop\ГикБреинс\Examples\Seminar\Siminar_006(КР)\obj\Debug\net8.0\ref\Siminar_006(КР).dll
